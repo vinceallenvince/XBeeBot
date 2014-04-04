@@ -1,5 +1,6 @@
 ### FILES
 .DS_Store
+*~.skp
 
 ### FOLDERS
 node_modules/
