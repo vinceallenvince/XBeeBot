@@ -20,7 +20,7 @@ var sp = new SerialPort(mySerialPort, {
 });
 
 sp.on('open', function () {
-
+console.log('!!!');
   process.stdin.resume();
   process.stdin.setEncoding('utf8');
   process.stdin.setRawMode(true);
