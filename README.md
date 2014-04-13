@@ -1,3 +1,3 @@
 ## XBeeBot
 
-Instructions coming soon.
+Instructions and photos coming soon.
